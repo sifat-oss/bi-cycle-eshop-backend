@@ -158,5 +158,5 @@ Feel free to fork this repository, raise issues, and submit pull requests to con
 
 For queries, suggestions, or feedback, please contact:
 Md Sifat Hossain
-Email: mdsifatss@gmai.com
+Email: mdsifatss@gmail.com
 GitHub: github.com/sifat-oss
