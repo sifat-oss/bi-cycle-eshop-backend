@@ -79,7 +79,7 @@ This project is an Express.js application developed with TypeScript that integra
 
 - Clone the project in your local machine
   ```bash
-   git clone https://github.com/nurhossainfarid/Bi-Cycle_store_backend_B4A4V4.git
+   git clone https://github.com/sifat-oss/bi-cycle-eshop-backend.git
   ```
 - Install all the the dependencies
   ```bash
