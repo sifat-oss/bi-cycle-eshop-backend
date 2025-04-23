@@ -8,7 +8,7 @@ This project is an Express.js application developed with TypeScript that integra
 
 #### Live Deployment Link: https://cyclezen-backend.vercel.app/
 
-#### Frontend github: https://github.com/nurhossainfarid/Bi-Cycle_store_frontend_B4A4V4
+#### Frontend github: https://github.com/sifat-oss/bi-cycle-eshop.git
 
 #### Frontend Deployment Link: https://bi-cycle-store-frontend-b4-a4-v4.vercel.app/
 
@@ -157,6 +157,6 @@ Feel free to fork this repository, raise issues, and submit pull requests to con
 ## Contact
 
 For queries, suggestions, or feedback, please contact:
-Nur Hossain Farid
-Email: faahsan1516@gmai.com
-GitHub: github.com/nurhossainfarid
+Md Sifat Hossain
+Email: mdsifatss@gmai.com
+GitHub: github.com/sifat-oss
